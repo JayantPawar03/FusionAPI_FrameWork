@@ -1,0 +1,6 @@
+@FusionAPI_Framework_HostAddress = http://localhost:5117
+
+GET {{FusionAPI_Framework_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
